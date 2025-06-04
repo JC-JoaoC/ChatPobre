@@ -168,11 +168,7 @@
     "answer": "Todas as assertivas estão corretas; i. Gerir os riscos; ii. Reduzir a exposição negativa; iii. Preservar a reputação; iv. Evitar fraudes;"
   },
   {
-    "question": "O símbolo acima apresentaado é utilizado no diagrama de atividades para:",
-    "answer": "Somente iii errada;"
-  },
-  {
-    "question": "O mundo externo é representado por um conjunto de atores ou atores externos que interagem com o sistema. Descrever a funcionalidade que o sistema deve oferecer, do ponto de vista do mundo externo, é a principal função de qual diagrama da UML? ",
+    "question": "O mundo externo é representado por um conjunto de atores ou atores externos que interagem com o sistema. Descrever a funcionalidade que o sistema deve oferecer, do ponto de vista do mundo externo, é a principal função de qual diagrama da UML?",
     "answer": "Diagrama de CASOS DE USO; "
   },
   {
@@ -188,7 +184,43 @@
     "answer": "Somente ii errada; ii.Envolve somente uma área específica da empresa;"
   },
   {
-    "question": "Com relação ao modelo de gestão Bottom-Up, existem diversas características que podem ser observadas, tais como:",
-    "answer": "Somente ii e iv corretas; ii.O modelo Bottom-up pode utilizar metodologias ágeis, tais como XP, Scrum, entre outras; iv.Podem ser feitas reuniões diárias reunindo a equipe para coordenar melhor os esforços;"
+    "question": "A Modelagem é uma das fases do BPM. Essa nessa fase são realizadas as seguintes tarefas:",
+    "answer": "Somente i e iv corretas; i.Desenhar como os processos devem ser feitos futuramente; iv.Construir uma representação de como os processos individuais se encaixam;"
+  },
+  {
+    "question": "A transformação dos processos é uma das fases adicionais do ciclo BPM. Essa fase possui as seguintes características:",
+    "answer": "Somente iii errada; iii.Só é feita a transformação de processos que tenham um grau alto de complexidade;"
+  },
+  {
+    "question": "A execução é uma das fases do ciclo BPM, nessa fase são esperadas as seguintes implementações e melhorias decorrentes das propostas apresentadas:",
+    "answer": "Somente iv errada; iv.Planejamento das mudanças;"
+  },
+  {
+    "question": "Um dos elementos mais importantes para avaliar um processo é a sua maturidade, que pode ser medida avaliando:",
+    "answer": "Todas corretas; i.Nível de desenvolvimento; ii.Eficiência; iii.Melhoria contínua; iv.Nível de controle do processo;"
+  },
+  {
+    "question": "A maturidade de um processo tem importância por quê:",
+    "answer": "Somente i errada; i.Processos maduros são mais inflexíveis;"
+  },
+  {
+    "question": "A formalização dos procedimentos executados pelos colaboradores de uma empresa com o objetivo de estabelecer regras e parâmetros repetíveis para as tarefas, é uma das fases adicionais do BPM. Essa fase é chamada de:",
+    "answer": "Padronização dos processos;"
+  },
+  {
+    "question": "O desenho de processos consiste em uma representação visual ou gráfica sobre os fluxos de trabalho e demandas a serem seguidas em determinada operação. O desenho de processos pode ser feito por meio de:",
+    "answer": "VERDADEIRO, VERDADEIRO, FALSO, VERDADEIRO, FALSO;"
+  },
+  {
+    "question": "O ciclo do BPM é composto por fases que devem ser consideradas como segue:",
+    "answer": "Somente ii correta; ii.As Is é uma das fases do ciclo BPM, ou seja, é a identificação do processo atual;"
+  },
+  {
+    "question": "O CMMI (Capability Maturity Model Integration) possui cinco níveis de maturidade que representam o progresso de uma organização em termos de melhoria de processos. Pode-se afirmar que:",
+    "answer": "Somente iv errada; iv.O retrabalho é fruto de um nível elevado de maturidade;"
+  },
+  {
+    "question": "O mapeamento de processos é uma fase adicional às fases principais do ciclo BPM. Nessa fase podem ser observadas as seguintes finalidades:",
+    "answer": "Somente ii errada; ii.Acompanhar monitoramento e controle dos processos;"
   }
 ]
