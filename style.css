@@ -1,0 +1,152 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body,
+html {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+  background-color: #f0f2f5;
+  color: #1c1e21;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  min-height: 100vh;
+  padding-top: 8%;
+  box-sizing: border-box;
+  overflow: hidden;
+}
+
+.container {
+  text-align: center;
+  background-color: #ffffff;
+  padding: 25px 30px;
+  border-radius: 8px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  width: 90%;
+  max-width: 680px;
+  margin-top: 20px;
+}
+
+.search-box {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 25px;
+  border: 1px solid #dddfe2;
+  border-radius: 24px;
+  padding: 10px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+  transition: box-shadow 0.3s ease;
+}
+
+.search-box:focus-within {
+  border-color: #1877f2;
+  box-shadow: 0 2px 6px rgba(24, 119, 242, 0.2);
+}
+
+#searchInput {
+  width: calc(100% - 20px);
+  padding: 12px 10px;
+  font-size: 16px;
+  border: none;
+  outline: none;
+  background-color: transparent;
+  resize: vertical;
+  min-height: 60px; /* Initial height for textarea */
+  font-family: inherit;
+  line-height: 1.5;
+  margin-bottom: 10px; /* Space between textarea and buttons */
+}
+
+.buttons-wrapper {
+  display: flex;
+  justify-content: center; /* Center buttons */
+  width: 100%;
+  gap: 10px; /* Space between buttons */
+}
+
+#deleteButton,
+#pasteButton,
+#searchButton {
+  padding: 10px 20px;
+  font-size: 15px;
+  border: none;
+  border-radius: 20px; /* Pill-shaped buttons */
+  cursor: pointer;
+  font-weight: 500;
+  transition: background-color 0.2s ease, box-shadow 0.2s ease;
+}
+
+#pasteButton,
+#deleteButton {
+  background-color: #e4e6eb; /* Light gray for secondary action */
+  color: #050505;
+}
+
+#deleteButton:hover,
+#pasteButton:hover {
+  background-color: #d8dbdf;
+}
+
+#searchButton {
+  background-color: #1877f2;
+  color: white;
+}
+
+#searchButton:hover {
+  background-color: #166fe5;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+#results {
+  margin-top: 25px;
+  padding: 18px;
+  background-color: #f7f8fa;
+  border: 1px solid #e9ebee;
+  border-radius: 6px;
+  text-align: left;
+  min-height: 40px;
+  line-height: 1.6;
+  white-space: pre-wrap;
+  font-size: 16px;
+  color: #333;
+}
+
+@media (max-width: 600px) {
+  body {
+    padding-top: 3%;
+  }
+  .container {
+    padding: 20px 15px;
+    margin-top: 10px;
+  }
+
+  h1 {
+    font-size: 2em;
+  }
+
+  #searchInput {
+    font-size: 15px;
+    min-height: 50px;
+  }
+
+  .buttons-wrapper {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  #pasteButton,
+  #searchButton,
+  #deleteButton {
+    width: 100%;
+    margin-top: 5px;
+    padding: 12px;
+  }
+  #pasteButton:first-child {
+    margin-top: 0;
+  }
+}

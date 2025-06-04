@@ -1,0 +1,194 @@
+[
+  {
+    "question": "O ciclo de vida de um serviço é o processo que descreve as etapas de um serviço desde o seu início até o seu fim. Analise as assertivas abaixo:",
+    "answer": "VERDADEIRA, VERDADEIRA, FALSA, VERDADEIRA, VERDADEIRA;"
+  },
+  {
+    "question": "Verificar se a solicitação de mudança é válida; Descrever a origem da mudança e; Analisar a viabilidade da mudança, são passos que devem ser observados para:",
+    "answer": "Análise de impacto;"
+  },
+  {
+    "question": "No contexto da engenharia de requisitos, quando um sistema de vendas é desenvolvido, a implementação da cobrança de impostos na venda de um produto é considerada como:",
+    "answer": "Todos errados; (i.Requisito funcional; - ii.Requisito não funcional; - iii.Requisito de programação; - iv.Requisito de análise;)"
+  },
+  {
+    "question": "Com relação à importância e valor dos processos, podemos afirmar que:",
+    "answer": "Somente i errada; i.Têm foco na área e não no produto;"
+  },
+  {
+    "question": "Sobre a A Unified Modeling Language (UML), ou Linguagem de Modelagem Unificada é correto afirmar:",
+    "answer": "Somente iv errada; IV - Tem a capacidade de executar múltiplos aplicativos em um único ambiente. "
+  },
+  {
+    "question": "Com relação ao conceito de PROCESSO, pode-se afirmar que:",
+    "answer": "Somente ii errada; ii.Envolve somente uma área específica da empresa;"
+  },
+  {
+    "question": "Processos são importantes no contexto de uma organização, pois eles são os elementos que produzem resultados. Dessa forma, pode-se afirmar, em relação aos processos, que:",
+    "answer": "Está correto somente ii; ii.São ativos de uma empresa;"
+  },
+  {
+    "question": "Diversos documentos são produzidos durante om processo de engenharia de requisitos. ARTEFATOS, podem ser considerados como:",
+    "answer": "Todas corretas; i.Especificação de casos de uso; ii.Documento Visão do sistema; iii.Qualquer documento confeccionado para o desenvolvimento do sistema; iv.Especificação de interface gráfica;"
+  },
+  {
+    "question": "Diagramas de casos de uso têm finalidades específicas, tais como:",
+    "answer": "Somente i correta; i.Identificar as funcionalidades que o futuro sistema deve possuir;"
+  },
+  {
+    "question": "Comunicações têm as seguintes características para a linguagem UML, no diagrama de casos de uso;",
+    "answer": "Somente i e iii corretas; i.Identificam que dados são passados entre atores e casos de uso; iii.Apresentam a inicialização dos casos de uso pelos atores;"
+  },
+  {
+    "question": "Pode-se afirmar, com relação aos requisitos que:",
+    "answer": "Somente ii correta; ii.Requisitos não-funcionais colaboram para a qualidade do sistema;"
+  },
+  {
+    "question": "Com vistas às relações de um diagrama de casos de uso:",
+    "answer": "Todas erradas; i.Toda relação é utilizada entre atores e casos de uso; ii.Uma relação do tipo GENERALIZAÇÃO/ESPECIALIZAÇÃO só pode existir entre casos de uso; iii.Relações do tipo <<INCLUDE>>, quando utilizadas entre ator e caso de uso, indica a obrigatoriedade do ator executar a funcionalidade; iv.Relações do tipo <<EXTEND>>, quando são utilizados entre atores, indica que esses atores se comunicam fora do sistema proposto;"
+  },
+  {
+    "question": "Existem várias diferenças entre a gestão DE processos e a gestão POR processos. No que se refere à tomada de decisão, pode-se afirmar que:",
+    "answer": "Na gestão DE processos é tomada pela gerência, e na gestão POR processos é tomada por todos os participantes;"
+  },
+  {
+    "question": "Um ATOR, no diagrama de CASOS DE USO pode representar:",
+    "answer": "Todos os itens estão corretos; i.Quem, ou o que, inicia um caso de uso; ii.Um tipo de usuário; iii.Um sistema que se relaciona com o sistema que será criado; iv.Qualquer elemento que envie ou receba dados/informa\u00e7\u00f5es do sistema proposto;"
+  },
+  {
+    "question": "Fazem parte das ETAPAS DA GESTÃO DE PROCESSOS:",
+    "answer": "Todas corretas; i.Papéis e responsabilidades; ii.Modelagem de processos; iii.Análise de processos; iv.Desenho de processos;\""
+  },
+  {
+    "question": "As histórias de usuários têm forte ligação com metodologias ágeis. Essas metodologias ágeis podem ser:",
+    "answer": "Somente ii e iii corretos; XP SCRUM;"
+  },
+  {
+    "question": "O mundo externo é representado por um conjunto de atores ou atores externos que interagem com o sistema. Descrever a funcionalidade que o sistema deve oferecer,do ponto de vista do mundo externo, é a principal função de qual diagrama da UML?",
+    "answer": "Diagrama de CASOS DE USO;"
+  },
+  {
+    "question": "O símbolo acima apresentaado é utilizado no diagrama de atividades para:",
+    "answer": "Somente I e IV corretas; i. Combinar duas atividades simultâneas e as reintroduz em um fluxo onde apenas uma atividade ocorre por vez; iv. Executar uma sincronização entre os fluxos de entrada;"
+  },
+  {
+    "question": "Com relação ao ciclo de vida de um produto é importante observar algumas regras básicas, como por exemplo:",
+    "answer": "Somente IV errada; iv. Se ocorrer a extinção de um produto, a empresa, deve mudar sua razão social para evitar desgaste junto ao público;"
+  },
+  {
+    "question": "Verificar se a solicitação de mudança é válida; Descrever a origem da mudança e; Analisar a viabilidade da mudança, são passos que devem ser observados para:",
+    "answer": "Análise de impacto"
+  },
+  {
+    "question": "São elementos essenciais em um diagrama de atividades:",
+    "answer": "Somente ii e iii corretos; ii. Ação a ser executada; iii. Início da atividade;"
+  },
+  {
+    "question": "A UML (Unified Modeling Language) é uma linguagem de modelagem padrão utilizada na Engenharia de Software para visualizar, especificar, construir e documentar artefatos de um sistema de software.",
+    "answer": "Somente ii e iii corretas; ii. Atores são agentes externos que correspondem a um papel (role) que um ser humano, um processo, um outro sistema ou um dispositivo de hardware desempenha ao interagir com a aplicação; iii.São elementos de um caso de uso: Atores, casos de uso, comunicações e relações;"
+  },
+  {
+    "question": "Fazem parte dos diagramas comportamentais:",
+    "answer": "Somente iii errado; iii. Tempo;"
+  },
+  {
+    "question": "Diagramas de casos de uso têm por finalidade:",
+    "answer": "Somente iv errada; iv. Determinar o tipo de tecnologia será utilizada á para a implementação do sistema;"
+  },
+  {
+    "question": "A ITIL é composta por 5 livros. Suas principais características são:",
+    "answer": "Somente i e il corretas; i. Framework para o gerenciamento de serviços de TI; ii. É composta pelas melhores práticas para o gerenciamento de TI;"
+  },
+  {
+    "question": "Pode-se afirmar, com relação aos requisitos que:",
+    "answer": "Somente ii correta; ii. Requisitos não-funcionais colaboram para a qualidade do sistema;"
+  },
+  {
+    "question": "Processos de negócio podem ser classificados em:",
+    "answer": "Somente i, iii e vi corretos; i. Primários; iii. De suporte; vi. De gerenciamento;"
+  },
+  {
+    "question": "Sobre a A Unified Modeling Language (UML), ou Linguagem de Modelagem Unificada é correto afirmar:",
+    "answer": "Somente iv errada; IV - Tem a capacidade de executar múltiplos aplicativos em um único ambiente."
+  },
+  {
+    "question": "Existem vários tipos de objetos e, portanto, existem diversos tipos de classes. Pode-se afirmar, de acordo com o modelo de objetos, que as seguintes assertivas podem ser verdadeiras:",
+    "answer": "Todas as assertivas estão corretas; i. Todos os objetos são instâncias de uma classe; ii. Classe é o que se projeta, ou seja, é uma concepção em tempo de desenvolvimento de um sistema; iii. Objeto é o que se cria durante o processamento, ou seja, é o produto de um processamento de dados; iv. Objetos possuem os métodos definidos em sua classe;"
+  },
+  {
+    "question": "Na passagem de mensagem de um objeto para outro, o método que deverá ser executado necessita de um conteúdo. Esse conteúdo é chamado de:",
+    "answer": "Argumentos;"
+  },
+  {
+    "question": "Quando, em uma mensagem, o remetente espera que o receptor processe a mensagem e retorne antes de continuar com outra mensagem, diz-se que houve uma mensagem:",
+    "answer": "Síncrono;"
+  },
+  {
+    "question": "Diversas técnicas podem ser utilizadas nesta etapa do processo de engenharia de requisitos, tais como entrevistas e pesquisas. Essa etapa é chamada de:",
+    "answer": "Elicitação de requisitos;"
+  },
+  {
+    "question": "Basicamente existem dois modelos de gestão de processos. No modelo cuja abordagem é Top-Down, algumas características são observadas, tais como:",
+    "answer": "Somente i e iv corretas; i. O gestor da equipe ou projeto toma as decisões, que depois são filtradas em uma estrutura hierárquica; iv. A abordagem Top-down pode ser utilizada nos níveis de projeto, equipe e da empresa;"
+  },
+  {
+    "question": "Analistas de negócio são elementos que:",
+    "answer": "Somente ii errada; II. São analistas de sistemas, ou seja, desenvolvedores de software;"
+  },
+  {
+    "question": "O símbolo acima apresentado é utilizado no diagrama de atividades para:",
+    "answer": "Somente ii correta; ii. Dividir um único fluxo de atividade em duas atividades simultâneas:"
+  },
+  {
+    "question": "No contexto de SERVIÇO, alguns elementos da área de Tl são considerados conforme descritos abaixo:",
+    "answer": "Todas as assertivas erradas; i. Informação é considerada um passivo estratégico nas organizações; ii. A área de TI passou a ter menor importância se comparada a outras áreas da organização que, financeiramente, são mais rentáveis; iii. As organizações passaram a alinhar as suas áreas de negócio às diretrizes da TI; iv. A TI deve ser sempre uma atividade fim da organização;"
+  },
+  {
+    "question": "Dado o diagrama, responda às questões seguintes",
+    "answer": "Somente as afirmações ii, iii e iv estão corretas; ii. Estoquista, Gerente de setor e usuário são denominados ATORES, pois são os inicializadores das funcionalidades a que estão ligados; iii. Estoquista e gerente de setor são especializações do ator USUÁRIO; iii. Estoquista e gerente de setor são especializações do ator USUÁRIO;"
+  },
+  {
+    "question": "Um método é Conjunto de instruções associado com a operação de uma classe, propiciando comportamento aos objetos da Classe. Pode ser invocado por meio de passagem de mensagens provenientes de:",
+    "answer": "Somente os itens iii, v e vi estão corretos; iii. Objetos de outras classes; v. Interface do usuário; vi. Lógica do programa;"
+  },
+  {
+    "question": "A evolução constante do serviço de Tl de acordo com as demandas impostas é o que trata um dos livros da ITIL. Esse livro tem as seguintes características:",
+    "answer": "Somente i e iv corretas; i. Identificar e incorporar melhorias constantes ao serviço; iv. Utiliza conceitos de Planejar, Executar, Verificar e Ajustar,"
+  },
+  {
+    "question": "Diversos documentos são produzidos durante om processo de engenharia de requisitos. ARTEFATOS, podem ser considerados como:",
+    "answer": "Todas corretas; i. Especificação de casos de uso; ii. Documento Visão do sistema; iii. Qualquer documento confeccionado para o desenvolvimento do sistema; iv. Especificação de interface gráfica;"
+  },
+  {
+    "question": "No contexto de SERVIÇO, alguns elementos da área de TI são considerados conforme descritos abaixo:",
+    "answer": "Todas as assertivas erradas; i. Informação é considerada um passivo estratégico nas organizações; ii. A área de TI passou a ter menor importância se comparada a outras áreas da organização que, financeiramente, são mais rentáveis; iii. As organizações passaram a alinhar as suas áreas de negócio às diretrizes da TI; iv. A TI deve ser sempre uma atividade fim da organização;"
+  },
+  {
+    "question": "Estar em conformidade não é mais uma opção para as empresas, mas uma necessidade do negócio. A manutenção do Compliance tem como objetivo:",
+    "answer": "Todas as assertivas estão corretas; i. Gerir os riscos; ii. Reduzir a exposição negativa; iii. Preservar a reputação; iv. Evitar fraudes;"
+  },
+  {
+    "question": "O símbolo acima apresentaado é utilizado no diagrama de atividades para:",
+    "answer": "Somente iii errada;"
+  },
+  {
+    "question": "O mundo externo é representado por um conjunto de atores ou atores externos que interagem com o sistema. Descrever a funcionalidade que o sistema deve oferecer, do ponto de vista do mundo externo, é a principal função de qual diagrama da UML? ",
+    "answer": "Diagrama de CASOS DE USO; "
+  },
+  {
+    "question": "Requisitos são mutáveis, ou seja, podem sofrer alteração durante o processo de desenvolvimento de um software. Entretanto, para a sua alteração, devem ser seguidas determinadas regras, tais como:",
+    "answer": "Somente i e iii corretas; i.Exigir Rastreabilidade da mudança; iii.Alteração do requisito condicionada à análise de impacto;"
+  },
+  {
+    "question": "“Nesse período que são identificadas, consideradas e analisadas as características, funcionalidades e finalidades de um produto.”. Esta frase remete a uma das fases do ciclo de vida de um produto, que se denomina:",
+    "answer": "Desenvolvimento;"
+  },
+  {
+    "question": "Com relação ao conceito de PROCESSO, pode-se afirmar que:",
+    "answer": "Somente ii errada; ii.Envolve somente uma área específica da empresa;"
+  },
+  {
+    "question": "Com relação ao modelo de gestão Bottom-Up, existem diversas características que podem ser observadas, tais como:",
+    "answer": "Somente ii e iv corretas; ii.O modelo Bottom-up pode utilizar metodologias ágeis, tais como XP, Scrum, entre outras; iv.Podem ser feitas reuniões diárias reunindo a equipe para coordenar melhor os esforços;"
+  }
+]
